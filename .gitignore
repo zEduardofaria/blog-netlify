@@ -4,6 +4,13 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
+=======
+lerna-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+>>>>>>> 3406f5e687af2e9f79ef9de019bca08f17bf44b7
 
 # Runtime data
 pids
@@ -16,11 +23,19 @@ lib-cov
 
 # Coverage directory used by tools like istanbul
 coverage
+<<<<<<< HEAD
+=======
+*.lcov
+>>>>>>> 3406f5e687af2e9f79ef9de019bca08f17bf44b7
 
 # nyc test coverage
 .nyc_output
 
+<<<<<<< HEAD
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+=======
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+>>>>>>> 3406f5e687af2e9f79ef9de019bca08f17bf44b7
 .grunt
 
 # Bower dependency directory (https://bower.io/)
@@ -29,7 +44,11 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+<<<<<<< HEAD
 # Compiled binary addons (http://nodejs.org/api/addons.html)
+=======
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+>>>>>>> 3406f5e687af2e9f79ef9de019bca08f17bf44b7
 build/Release
 
 # Dependency directories
